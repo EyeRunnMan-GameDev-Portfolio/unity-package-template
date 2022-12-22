@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/issues"
   },
-  "homepage": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme"
+  "homepage": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/EyeRunnMan-GameDev-Portfolio"
+  }
 }
