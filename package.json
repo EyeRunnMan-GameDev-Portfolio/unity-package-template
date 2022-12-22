@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
   "publishConfig": {
-    "@eyerunnman:registry": "https://npm.pkg.github.com"
+    "//npm.pkg.github.com/:_authToken":"${NODE_AUTH_TOKEN}",
+    "registry": "https://npm.pkg.github.com"
   }
 }
