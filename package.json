@@ -1,6 +1,6 @@
 {
   "name": "com.eyerunnman.templatepackage",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "displayName": "Template Unity Package",
   "description": "This is an Template Unity Package",
   "unity": "2019.1",
@@ -8,9 +8,7 @@
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "author": {
-    "name": "eyerunnman"
-  },
+  "author": "eyerunnman",
   "samples": [
     {
       "displayName": "TestSample1",
@@ -18,5 +16,21 @@
       "path": "Samples~/TestSample1/"
     }
   ],
-  "hideInEditor": false
+  "hideInEditor": false,
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/issues"
+  },
+  "homepage": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
+  "publishConfig": {
+    "@EyeRunnMan:registry": "https://npm.pkg.github.com"
+  }
 }
