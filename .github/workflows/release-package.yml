@@ -8,21 +8,18 @@ on:
       - v0*.**.*
 
 jobs:
-  build:
+  upm-release:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
     steps:
       - uses: actions/checkout@v3
-      # Setup .npmrc file to publish to GitHub Packages
-      - uses: actions/setup-node@v3
-        with:
-          node-version: "16.x"
-          registry-url: "https://npm.pkg.github.com"
-          # Defaults to the user or organization that owns the workflow file
-          scope: "@eyerunnman"
-      - run: npm ci
-      - run: npm publish
+      - name: Create Release for OpenUPM
+        id: create_release
+        uses: quabug/create-upm-release@v2
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          target: main
+          upm_tag_prefix: v
+          upm_package_path: Packages/com.quabug.one-shot-injection
+          create_unitypackage: true
+          unitypackage_name: OneShot
