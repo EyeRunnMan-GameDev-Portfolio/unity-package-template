@@ -1,0 +1,22 @@
+{
+  "name": "com.eyerunnman.templatepackage",
+  "version": "0.0.1",
+  "displayName": "Template Unity Package",
+  "description": "This is an Template Unity Package",
+  "unity": "2019.1",
+  "unityRelease": "6f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "eyerunnman"
+  },
+  "samples": [
+    {
+      "displayName": "TestSample1",
+      "description": "This is a Sample Package",
+      "path": "Samples~/TestSample1/"
+    }
+  ],
+  "hideInEditor": false
+}
