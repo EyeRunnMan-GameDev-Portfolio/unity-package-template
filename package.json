@@ -1,6 +1,6 @@
 {
   "name": "com.eyerunnman.templatepackage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Template Unity Package",
   "description": "This is an Template Unity Package",
   "unity": "2019.1",
@@ -8,7 +8,6 @@
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "author": "eyerunnman",
   "samples": [
     {
       "displayName": "TestSample1",
@@ -29,7 +28,7 @@
     "url": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/issues"
   },
   "homepage": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/EyeRunnMan-GameDev-Portfolio"
+  "author": {
+    "name": "eyerunnman"
   }
 }
