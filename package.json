@@ -1,6 +1,6 @@
 {
   "name": "com.eyerunnman.templatepackage",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "displayName": "Template Unity Package",
   "description": "This is an Template Unity Package",
   "unity": "2019.1",
@@ -17,7 +17,6 @@
     }
   ],
   "hideInEditor": false,
-  "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
@@ -31,6 +30,6 @@
   },
   "homepage": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@eyerunnman:registry": "https://npm.pkg.github.com"
   }
 }
