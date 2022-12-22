@@ -25,7 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/issues"
   },
