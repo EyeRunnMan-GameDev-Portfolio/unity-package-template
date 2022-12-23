@@ -1,7 +1,7 @@
 {
-  "name": "com.eyerunnman.templatepackage",
-  "version": "0.0.2",
-  "displayName": "Template Unity Package",
+  "name": "com.org-name.package-name",
+  "version": "0.0.1",
+  "displayName": "Package Name",
   "description": "This is an Template Unity Package",
   "unity": "2019.1",
   "unityRelease": "6f1",
@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
   "author": {
-    "name": "eyerunnman"
-  }
+    "name": "org-name"
+  },
+  "dependencies": {}
 }
