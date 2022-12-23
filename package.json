@@ -5,9 +5,9 @@
   "description": "This is an Template Unity Package",
   "unity": "2019.1",
   "unityRelease": "6f1",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
+  "documentationUrl": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
+  "changelogUrl": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/blob/main/LICENSE.md",
   "samples": [
     {
       "displayName": "TestSample1",
