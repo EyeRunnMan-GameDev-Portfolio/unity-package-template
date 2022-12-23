@@ -1,6 +1,6 @@
 {
   "name": "com.org-name.package-name",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "displayName": "Package Name",
   "description": "This is an Template repo for Unity Packages (UPM)",
   "unity": "2019.1",
