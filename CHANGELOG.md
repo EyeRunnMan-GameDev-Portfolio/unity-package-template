@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.1.0...v1.2.0) (2022-12-23)
+
+
+### Features
+
+* auto release and publish ([d563391](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/d563391bc79fb1c6e4b8ebfe3d5eefa3dfea8ff2))
+
 ## [1.1.0](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.0.0...v1.1.0) (2022-12-23)
 
 
