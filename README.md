@@ -4,8 +4,8 @@ This is a template repo for creating custom Unity Pacakge (upm) with github acti
 
 ## Features
 
-- A Base Package template to work on template to work on
-- Github actions implemented to support easy distribution of packages and their updates
+- A Base Unity Package template to work on.
+- Github actions implemented to support easy distribution of packages and their updates.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -15,6 +15,13 @@ After cloning the repo :
 
 - replace com.`org-name`.package-name with your org name in all file/dir names and their contents
 - replace com.org-name.`package-name` with your package name in all files/dir names and their contents
+
+<details>
+  <summary>Also to get access to your packages in your unity projects via npm registery </summary>
+  
+![image](https://user-images.githubusercontent.com/46531095/209353255-9625bc2b-ba42-438f-a894-9462cc2c344f.png)
+
+</details>
 
 ## Environment Variables
 
