@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.0.0...v1.1.0) (2022-12-23)
+
+
+### Features
+
+* test feat ([062c527](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/062c5279e352fcc9d19968434e829585c8aff584))
+
 ## 1.0.0 (2022-12-23)
 
 
