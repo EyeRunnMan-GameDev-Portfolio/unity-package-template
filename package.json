@@ -1,8 +1,8 @@
 {
   "name": "com.org-name.package-name",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "Package Name",
-  "description": "This is an Template Unity Package",
+  "description": "This is an Template repo for Unity Packages (UPM)",
   "unity": "2019.1",
   "unityRelease": "6f1",
   "documentationUrl": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
