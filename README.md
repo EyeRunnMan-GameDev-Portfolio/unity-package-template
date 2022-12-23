@@ -6,7 +6,7 @@ This is a template repo for creating custom Unity Pacakge (upm) with github acti
 
 ## Features
 
-- A Base Package template to work on template to work on 
+- A Base unity Package template to work.
 - Github actions implemented to support easy distribution of packages and their updates
 
 
