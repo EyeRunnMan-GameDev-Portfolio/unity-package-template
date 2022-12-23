@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.3](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.5.2...v1.5.3) (2022-12-23)
+
+
+### Bug Fixes
+
+* fixed readme title ([fec128f](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/fec128fa1cac757de84d1dc75a5aa1c2baa9cb9a))
+* updated readme.md ([ff0ef22](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/ff0ef223c6ff67aa92bc214ca38f0eeae6beae26))
+
 ## [1.5.2](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.5.1...v1.5.2) (2022-12-23)
 
 
