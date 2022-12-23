@@ -18,7 +18,20 @@ After cloning the repo :
 - replace com.`org-name`.package-name with your org name in all file/dir names and their contents
 - replace com.org-name.`package-name` with your package name in all files/dir names and their contents 
 
+to use packages in unity from npm registery 
+<details>
+  <summary>Set this up</summary>
 
+![image](https://user-images.githubusercontent.com/46531095/209373322-f06beee7-9339-454f-ab50-aef27b97a05e.png)
+
+</details>
+- now go to window > package manger : 🎉enjoy your packages with automated changelogs and semver , don't forget to follow conventional commits
+
+  
+
+Also Use **Conventional Commits** for auto changelog and semver https://www.conventionalcommits.org/en/v1.0.0/
+
+github action is taken from [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action#automating-publication-to-npm)
 ## Environment Variables
 
 To run this project, you will need to add the `NPM_TOKEN` github secrets set up for your own repositories to make the github actions work.
