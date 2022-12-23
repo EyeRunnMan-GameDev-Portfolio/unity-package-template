@@ -1,5 +1,5 @@
 
-# Unity Pacakge Template
+# Unity Package Template
 
 This is a template repo for creating custom Unity Pacakge (upm) with github actions implemented to support auto update of packages in the npm package registery.
 
