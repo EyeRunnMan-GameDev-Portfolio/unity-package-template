@@ -8,7 +8,7 @@ This is a template repo for creating custom Unity Pacakge (upm) with github acti
 
 - A Base unity Package template to work.
 - Github actions implemented to support easy distribution of packages and their updates
-
+- Auto C# documentation using DocFX
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
