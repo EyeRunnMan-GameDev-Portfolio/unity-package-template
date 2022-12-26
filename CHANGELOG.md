@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.6.0...v1.6.1) (2022-12-26)
+
+
+### Bug Fixes
+
+* updated readme.md ([b00bd0e](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/b00bd0e0d9c124bb621f9b79f1aef7699e670ccb))
+
 ## [1.6.0](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.5.3...v1.6.0) (2022-12-26)
 
 
@@ -18,5 +25,3 @@
 * github actions ([9a58419](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/9a58419ac256f5a825b1cd01414d4ff984b25daa))
 * removed copy command from actions ([2627d16](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/2627d164383a6a7b28f47442d433dc9a357c0d88))
 * removed unwanted lines ([42a4337](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/42a4337379889262bfaa4dbcfdb05aa3190aedd1))
-
-
