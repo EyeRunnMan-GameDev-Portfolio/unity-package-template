@@ -30,7 +30,10 @@ jobs:
         if: ${{ steps.release.outputs.release_created }}
 
       - name: Copy ./README.md to doc ./docfx_project/index.md
-        run: cp ./README.md ./docfx_project/index.md
+        uses: canastro/copy-file-action@master
+        with:
+          source: "README.md"
+          target: "docfx_project/index.md"
         
       - name: Build Documentation
         uses: nikeee/docfx-action@v1.0.0
