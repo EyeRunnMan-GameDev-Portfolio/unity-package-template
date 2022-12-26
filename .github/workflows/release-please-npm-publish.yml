@@ -28,8 +28,11 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
         if: ${{ steps.release.outputs.release_created }}
-
-      - name: Build Documentation
-        run: ls -al
+        
+  build-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - run: ls -al 
+ 
         
         
