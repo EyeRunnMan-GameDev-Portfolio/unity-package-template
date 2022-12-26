@@ -30,6 +30,6 @@ jobs:
         if: ${{ steps.release.outputs.release_created }}
 
       - name: Build Documentation
-        run: ls
+        run: ls -al
         
         
