@@ -1,8 +1,9 @@
 name: docs-on-release
 
 on:
-  release:
-    types: [published]
+  push:
+    tags:
+      - 'v*'
 
 jobs:
   build-docs:
