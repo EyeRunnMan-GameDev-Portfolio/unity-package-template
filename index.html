@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Unity Package Template </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Unity Package Template ">
+    <meta name="generator" content="docfx 2.56.7.0">
+    
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="styles/docfx.vendor.css">
+    <link rel="stylesheet" href="styles/docfx.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <meta property="docfx:navrel" content="toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="index.html">
+                <img id="logo" class="svg" src="logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="unity-package-template">Unity Package Template</h1>
+
+<p>This is a template repo for creating custom Unity Pacakge (upm) with github actions implemented to support auto update of packages in the npm package registery.</p>
+<h2 id="features">Features</h2>
+<ul>
+<li>A Base unity Package template to work.</li>
+<li>Github actions implemented to support easy distribution of packages and their updates</li>
+</ul>
+<p><a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a></p>
+<h2 id="usage">Usage</h2>
+<p><strong>After cloning the repo :</strong></p>
+<ul>
+<li>replace com.<code>org-name</code>.package-name with your org name in all file/dir names and their contents</li>
+<li>replace com.org-name.<code>package-name</code> with your package name in all files/dir names and their contents</li>
+</ul>
+<p><strong>To use packages in unity from npm registery :</strong></p>
+<details>
+  <summary>Set this up</summary>
+<p><img src="https://user-images.githubusercontent.com/46531095/209373322-f06beee7-9339-454f-ab50-aef27b97a05e.png" alt="image"></p>
+</details>
+<ul>
+<li>now go to window &gt; package manger : 🎉enjoy your packages with automated changelogs and semver , don't forget to follow conventional commits</li>
+</ul>
+<p>Also Use <strong>Conventional Commits</strong> for auto changelog and semver <a href="https://www.conventionalcommits.org/en/v1.0.0/">https://www.conventionalcommits.org/en/v1.0.0/</a></p>
+<p>github action is taken from <a href="https://github.com/google-github-actions/release-please-action#automating-publication-to-npm">google-github-actions/release-please-action</a></p>
+<h2 id="environment-variables">Environment Variables</h2>
+<p>To run this project, you will need to add the <code>NPM_TOKEN</code> github secrets set up for your own repositories to make the github actions work.
+To get the token follow the steps below</p>
+<ul>
+<li><a href="https://www.npmjs.com/">https://www.npmjs.com/</a> create your npm account</li>
+<li><a href="https://www.npmjs.com/settings/your_username/tokens">https://www.npmjs.com/settings/your_username/tokens</a> get the classic token and chose automation token , it is required in the github actions for publishing without 2FA</li>
+</ul>
+<h2 id="-links">🔗 Links</h2>
+<p><strong>Build with ❤ By :</strong>  <a href="https://www.github.com/eyerunnman">@Eyerunnman</a></p>
+<p><a href="https://eyerunnman.github.io/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
+<a href="https://www.linkedin.com/in/karanbatradev/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
+<a href="https://twitter.com/EyeRunnMan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter"></a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/blob/main/docfx_project/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="styles/docfx.js"></script>
+    <script type="text/javascript" src="styles/main.js"></script>
+  </body>
+</html>
