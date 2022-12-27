@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "CHANGELOG.html",
-          "hash": "7jGcysp91hc4FeCWNr0EJA=="
+          "hash": "To0z6XYc3rqSLBcYb2MWuw=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api-editor/HelloDocffxg.Class3.html",
-          "hash": "TZ1LiPj7f6zHClafV9OKRw=="
+          "hash": "hzdTVtn9HQUmSQG6wOIAsg=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api-editor/HelloDocffxg.html",
-          "hash": "buoTC4R9EuZMqyHaOcXWUw=="
+          "hash": "e+n1ZtNeTxPvPynF10WzQw=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api-runtime/HelloDocffx.Class1.html",
-          "hash": "nb6pZhaicSPiJCAW9yCm0w=="
+          "hash": "NigZNYJ7h45+tW6nz6gjWQ=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api-runtime/HelloDocffx.html",
-          "hash": "0CU6vN9MxokCXm6hvRgrXQ=="
+          "hash": "TZFp6isCjO07KzjJh0cxQg=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api-runtime/index.html",
-          "hash": "tG01xkmOvj+xlrG5gyv5HQ=="
+          "hash": "fKwjM+TkhhjESJdMuluedg=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api-runtime/zfffffffHelloDfocfx.Class2.html",
-          "hash": "1ORGv+NW68UihF34KM3qwQ=="
+          "hash": "XApGGncDDc7/TCmIYdsoJQ=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api-runtime/zfffffffHelloDfocfx.html",
-          "hash": "1ZZJFCeMtOJjNjtYax5ROQ=="
+          "hash": "ffpmFX4O3+8maOOKBMS48g=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "Cpp0eAm0wccq3WFIfHqpKA=="
+          "hash": "VSpOLXsXmdb+45B7KA9BCA=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "changelog.html",
-          "hash": "MNBZYwlJ3lDF1rMWVEH0jw=="
+          "hash": "XQ2kZU/6syl6aLWr1qwseQ=="
         }
       },
       "is_incremental": false,
@@ -148,10 +148,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/logo.png",
+      "source_relative_path": "images/logo.svg",
       "output": {
         "resource": {
-          "relative_path": "images/logo.png"
+          "relative_path": "images/logo.svg"
         }
       },
       "is_incremental": false,
@@ -163,7 +163,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "CjUiQBRaDi7gBuiW7Xh8Ww=="
+          "hash": "2dVHuFWvzdjC1E61e8ssCQ=="
         }
       },
       "is_incremental": false,
