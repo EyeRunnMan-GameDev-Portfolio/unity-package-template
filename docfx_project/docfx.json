@@ -52,8 +52,8 @@
       }
     ],
     "globalMetadata": {
-      "_appLogoPath": "https://media.githubusercontent.com/media/EyeRunnMan-GameDev-Portfolio/unity-package-template/gh-pages/images/logo.png",
-      "_appFaviconPath": "https://raw.githubusercontent.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/gh-pages/images/fav.ico"
+      "_appLogoPath": "/images/logo.png",
+      "_appFaviconPath": "/images/fav.ico"
     },
     "dest": "_site",
     "globalMetadataFiles": [],
