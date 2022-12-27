@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.6.1...v1.7.0) (2022-12-27)
+
+
+### Features
+
+* updated docfx configration ([84de86c](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/84de86c34bb621f83678dd2561b8ba2f78c1344e))
+
 ## [1.6.1](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.6.0...v1.6.1) (2022-12-26)
 
 
