@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.4](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.7.3...v1.7.4) (2022-12-27)
+
+
+### Bug Fixes
+
+* fixed doc fx icon ([3dd52aa](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/3dd52aa3156b9a5477acf6016b9b2bf99cc43fc6))
+
 ## [1.7.3](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.7.2...v1.7.3) (2022-12-27)
 
 
