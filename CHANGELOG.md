@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.3](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.7.2...v1.7.3) (2022-12-27)
+
+
+### Bug Fixes
+
+* logo for documentation ([1471ec0](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/1471ec098a9a20c68ca2fd360fbfabdeb83ecbf6))
+
 ## [1.7.2](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.7.1...v1.7.2) (2022-12-27)
 
 
