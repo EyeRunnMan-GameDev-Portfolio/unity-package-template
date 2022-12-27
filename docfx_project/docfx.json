@@ -52,7 +52,7 @@
       }
     ],
     "globalMetadata": {
-      "_appLogoPath": "images/logo.png",
+      "_appLogoPath": "images/logo.svg",
       "_appFaviconPath": "images/fav.ico"
     },
     "dest": "_site",
