@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.7.6](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.7.5...v1.7.6) (2022-12-27)
+
+
+### Bug Fixes
+
+* app logo on docs fix ([169398d](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/169398d0c21e80dbed0d0e1681a4bfdb45a09aca))
+* for docs images ([a172213](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/a17221378f2bee5b4b8ffc86fb66444201906cda))
+* untracked lfs fron docfx_project folder ([ad82cf7](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/ad82cf760b56cc0a28c1b5bde3d38f4cae05a917))
+* updated logo for navbar ([8fd829e](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/8fd829e5dab5d066b964a0341d94d146b61daec5))
+
 ## [1.7.5](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.7.4...v1.7.5) (2022-12-27)
 
 
