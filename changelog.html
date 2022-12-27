@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Unity Package Template </title>
+    <title>Changelog </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Unity Package Template ">
+    <meta name="title" content="Changelog ">
     <meta name="generator" content="docfx 2.56.7.0">
     
     <link rel="shortcut icon" href="../images/fav.ico">
@@ -60,44 +60,29 @@
         <div class="article row grid">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="unity-package-template">Unity Package Template</h1>
+<h1 id="changelog">Changelog</h1>
 
-<p>This is a template repo for creating custom Unity Pacakge (upm) with github actions implemented to support auto update of packages in the npm package registery.</p>
-<h2 id="features">Features</h2>
+<h2 id="161-2022-12-26"><a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.6.0...v1.6.1">1.6.1</a> (2022-12-26)</h2>
+<h3 id="bug-fixes">Bug Fixes</h3>
 <ul>
-<li>A Base unity Package template to work.</li>
-<li>Github actions implemented to support easy distribution of packages and their updates</li>
-<li>Auto C# documentation using DocFX</li>
+<li>updated readme.md (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/b00bd0e0d9c124bb621f9b79f1aef7699e670ccb">b00bd0e</a>)</li>
 </ul>
-<p><a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a></p>
-<h2 id="usage">Usage</h2>
-<p><strong>After cloning the repo :</strong></p>
+<h2 id="160-2022-12-26"><a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.5.3...v1.6.0">1.6.0</a> (2022-12-26)</h2>
+<h3 id="features">Features</h3>
 <ul>
-<li>replace com.<code>org-name</code>.package-name with your org name in all file/dir names and their contents</li>
-<li>replace com.org-name.<code>package-name</code> with your package name in all files/dir names and their contents</li>
+<li>added docfx and github pages to GitHub workflow (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/ff8726d004f3227d5641abb0de4789a7fec3e623">ff8726d</a>)</li>
+<li>pushed docfx_projectfolder (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/4fb2d9d4a423d8243ca615f5a6149d84f214a81c">4fb2d9d</a>)</li>
+<li>testing documentation feature (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/986d1b7bedc74c4f25e3478925b84ed9c84a9115">986d1b7</a>)</li>
 </ul>
-<p><strong>To use packages in unity from npm registery :</strong></p>
-<details>
-  <summary>Set this up</summary>
-<p><img src="https://user-images.githubusercontent.com/46531095/209373322-f06beee7-9339-454f-ab50-aef27b97a05e.png" alt="image"></p>
-</details>
+<h3 id="bug-fixes-1">Bug Fixes</h3>
 <ul>
-<li>now go to window &gt; package manger : 🎉enjoy your packages with automated changelogs and semver , don't forget to follow conventional commits</li>
+<li>added docs release on publish (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/48f81c2edba824ecff438205f9c6675a934201a6">48f81c2</a>)</li>
+<li>fix for workflow (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/1f709297259af2b5e18bd51b489f30f6cb81f52e">1f70929</a>)</li>
+<li>fixed github action copy issue (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/c76db74aaabde4039f9ca41ebeda8519931242ff">c76db74</a>)</li>
+<li>github actions (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/9a58419ac256f5a825b1cd01414d4ff984b25daa">9a58419</a>)</li>
+<li>removed copy command from actions (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/2627d164383a6a7b28f47442d433dc9a357c0d88">2627d16</a>)</li>
+<li>removed unwanted lines (<a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/42a4337379889262bfaa4dbcfdb05aa3190aedd1">42a4337</a>)</li>
 </ul>
-<p>Also Use <strong>Conventional Commits</strong> for auto changelog and semver <a href="https://www.conventionalcommits.org/en/v1.0.0/">https://www.conventionalcommits.org/en/v1.0.0/</a></p>
-<p>github action is taken from <a href="https://github.com/google-github-actions/release-please-action#automating-publication-to-npm">google-github-actions/release-please-action</a></p>
-<h2 id="environment-variables">Environment Variables</h2>
-<p>To run this project, you will need to add the <code>NPM_TOKEN</code> github secrets set up for your own repositories to make the github actions work.
-To get the token follow the steps below</p>
-<ul>
-<li><a href="https://www.npmjs.com/">https://www.npmjs.com/</a> create your npm account</li>
-<li><a href="https://www.npmjs.com/settings/your_username/tokens">https://www.npmjs.com/settings/your_username/tokens</a> get the classic token and chose automation token , it is required in the github actions for publishing without 2FA</li>
-</ul>
-<h2 id="-links">🔗 Links</h2>
-<p><strong>Build with ❤ By :</strong>  <a href="https://www.github.com/eyerunnman">@Eyerunnman</a></p>
-<p><a href="https://eyerunnman.github.io/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
-<a href="https://www.linkedin.com/in/karanbatradev/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
-<a href="https://twitter.com/EyeRunnMan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter"></a></p>
 </article>
           </div>
           
@@ -106,7 +91,7 @@ To get the token follow the steps below</p>
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/blob/main/docfx_project/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/blob/main/docfx_project/changelog.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
