@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.1](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.7.0...v1.7.1) (2022-12-27)
+
+
+### Bug Fixes
+
+* updated config ([1034b34](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/commit/1034b3409dc0e236d8670188a4b2e7ebcab19865))
+
 ## [1.7.0](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/compare/v1.6.1...v1.7.0) (2022-12-27)
 
 
