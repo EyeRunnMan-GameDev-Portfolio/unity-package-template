@@ -125,3 +125,5 @@
 *.reapeaks lfs
 Assets/GameAssets/Fonts/Timeless/Timeless-Bold[[:space:]]Damage.asset lfs
 Assets/GameAssets/Fonts/Timeless/Timeless[[:space:]]SDF[[:space:]]Fixed.asset lfs
+
+docfx_project/** lfs=false
