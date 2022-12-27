@@ -52,8 +52,8 @@
       }
     ],
     "globalMetadata": {
-      "_appLogoPath": "/unity-package-template/images/logo.png",
-      "_appFaviconPath": "/unity-package-template/images/fav.ico"
+      "_appLogoPath": "images/logo.png",
+      "_appFaviconPath": "images/fav.ico"
     },
     "dest": "_site",
     "globalMetadataFiles": [],
