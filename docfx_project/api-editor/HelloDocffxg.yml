@@ -1,0 +1,22 @@
+### YamlMime:ManagedReference
+items:
+- uid: HelloDocffxg
+  commentId: N:HelloDocffxg
+  id: HelloDocffxg
+  children:
+  - HelloDocffxg.Class3
+  langs:
+  - csharp
+  - vb
+  name: HelloDocffxg
+  nameWithType: HelloDocffxg
+  fullName: HelloDocffxg
+  type: Namespace
+  assemblies:
+  - cs.temp.dll
+references:
+- uid: HelloDocffxg.Class3
+  commentId: T:HelloDocffxg.Class3
+  name: Class3
+  nameWithType: Class3
+  fullName: HelloDocffxg.Class3
